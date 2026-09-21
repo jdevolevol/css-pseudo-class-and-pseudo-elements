@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+form input:hover {
+    border-color: khaki;
+}
+form button:hover{
+    background-color: pink;
+}
+
+form input:disabled {
+    background-color: lightgrey;
+}
